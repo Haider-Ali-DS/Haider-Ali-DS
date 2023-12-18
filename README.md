@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats-rho-nine-11.vercel.app/api/top-langs/?username=Haider-Ali-DS&count_private=true&show_icons=true&theme=tokyonight)
-![kkthmyh's GitHub stats](https://github-readme-stats-rho-nine-11.vercel.app/api?username=Haider-Ali-DS&count_private=true&show_icons=true&theme=tokyonight)
